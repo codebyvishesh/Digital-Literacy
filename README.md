@@ -2,8 +2,8 @@
 ## Student Digital Ambassador Portfolio
 
 ### Student Information
-* **Name:** Ayush
-* **Registration Number:** [Enter Your Reg No. Here]
+* **Name:** Vishesh Singh
+* **Registration Number:** 25BCE10677
 * **Branch:** Computer Science Engineering
 * **Year:** First Year B.Tech
 * **Course Code:** CSE0001
